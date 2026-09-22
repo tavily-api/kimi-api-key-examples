@@ -39,3 +39,5 @@ Sends a single user message (from the command line, or a default greeting) and p
 ## When to use Synexa instead
 
 These scripts get a text model answering from your environment. If the next step in your project is generating images with FLUX, producing video, or producing audio, that is a different API with a different billing model. [Try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=kimi-api-key-examples&utm_content=readme-top&utm_term=tier-r) - one endpoint, a Python SDK, and per-run pricing, so a Synexa key can sit in the same `.env` next to `KIMI_API_KEY` and each does the job it is for.
+
+_Last reviewed: 2026-09-22_
